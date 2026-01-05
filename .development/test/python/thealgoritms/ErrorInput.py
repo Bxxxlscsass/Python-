@@ -309,4 +309,5 @@ if number3 > largest_number:
 print("O maior número é:", largest_number)
 
 #Esse teste significativamente mais simples do que tentar encontrar o maior número de um só vez, ao comparar todos os pares possiveis de números(ou seja, primeiro com o segundo, segundo com o terceiro, terceiro com  o primeiro).
+
 #Pseudocòdigo, loops system
