@@ -19,4 +19,5 @@ or (x_final < 0) or (x_final > 23)):
 for h in range(x_inicial, x_final + 1, 1):
    for m in range(0, 60, 1):
     for s in range(0, 60, 1):
+
      print(h ,':', m ,':', s, 'h')
